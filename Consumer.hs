@@ -1,4 +1,4 @@
-module ConsumerKafka where
+module Consumer where
   import Haskakafka
   import qualified Data.ByteString.Char8 as C8
 

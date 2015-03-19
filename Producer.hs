@@ -1,4 +1,4 @@
-module ProducerKafka where
+module Producer where
   import Haskakafka
   import qualified Data.ByteString.Char8 as C8
 
