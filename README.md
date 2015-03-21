@@ -5,8 +5,8 @@
 * `cabal install` [haskakafka](https://github.com/cosbynator/haskakafka)
 
 ## Examples
-* [producer](https://github.com/slon1024/haskell_kafka/blob/master/producer_kafka.hs)
-* [consumer](https://github.com/slon1024/haskell_kafka/blob/master/consumer_kafka.hs) 
+* [producer](https://github.com/slon1024/haskell_kafka/blob/master/Producer.hs)
+* [consumer](https://github.com/slon1024/haskell_kafka/blob/master/Consumer.hs) 
 
 ## Run it
 * `vangrant up` #see prerequisites
