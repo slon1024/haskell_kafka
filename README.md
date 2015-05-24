@@ -9,6 +9,6 @@
 * [Consumer](https://github.com/slon1024/haskell_kafka/blob/master/Consumer.hs) 
 
 ## Run it
-* `vangrant up` #see prerequisites
+* `vagrant up` #see prerequisites
 * `runhaskell Producer.hs`
 * `runhaskell Consumer.hs`
